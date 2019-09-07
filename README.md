@@ -1,2 +1,2 @@
-# Programing-Language
-各种语言的资料
+# 各种语言的资料
+## [Golang](Golang.md)
